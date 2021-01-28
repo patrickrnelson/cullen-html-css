@@ -1,3 +1,12 @@
 body {
   background-color: blanchedalmond;
 }
+
+.special {
+  border: 1.5px dashed olive;
+}
+
+span.special,
+li:first-child:hover {
+  color: plum;
+}
